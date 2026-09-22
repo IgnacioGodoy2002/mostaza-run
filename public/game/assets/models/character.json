@@ -1,0 +1,13 @@
+{
+  "clips": {
+    "Idle": 2.0,
+    "Run": 0.8,
+    "Jump": 0.8,
+    "Roll": 0.8666666666666667,
+    "Stumble": 0.8,
+    "Deliver": 2.0,
+    "Celebrate": 2.0
+  },
+  "authoring": "Blender 4.3.2",
+  "originalAsset": true
+}
